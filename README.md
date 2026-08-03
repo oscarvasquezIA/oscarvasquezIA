@@ -14,10 +14,6 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-  <strong>AI Development Coordinator</strong>
-</p>
-
-<p align="center">
   I focus on transforming Artificial Intelligence into
   <strong>useful, automated, and business-oriented solutions.</strong>
 </p>
